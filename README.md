@@ -55,20 +55,6 @@ class Enzo:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzo)
 
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/enzo/enzo/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enzo.enzo)
-
 *"Primeiro faça funcionar, depois faça funcionar bem."* 🎯
 
 </div>
