@@ -1,13 +1,9 @@
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
   ║  README DE PERFIL — ENZO                                      ║
-  ║                                                               ║
-  ║  SUBSTITUA ANTES DE PUBLICAR:                                 ║
-  ║    SEU-USUARIO     → seu username do GitHub (em vários pontos)║
-  ║    SEU-LINKEDIN    → seu usuário do LinkedIn                  ║
-  ║    seu.email@exemplo.com → seu e-mail profissional            ║
-  ║                                                               ║
   ║  PALETA: #0D1117 fundo · #8B5CF6 roxo · #22D3EE ciano         ║
+  ║  Para adicionar projetos, copie uma linha da tabela de        ║
+  ║  "projetos_em_destaque" e substitua os dados.                 ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -53,6 +49,7 @@ const enzo = {
     "resolução de problemas",
     "construir projetos de verdade",
   ],
+  estudandoAgora: "POO em JavaScript",
   objetivoAtual: "evoluir um pouco mais a cada dia",
 };
 ```
@@ -90,8 +87,7 @@ const enzo = {
 ## `> estatisticas_github`
 
 <!--
-  Os cards usam o serviço GitHub Readme Stats e só funcionam
-  depois de trocar SEU-USUARIO pelo seu username real.
+  Os cards usam o serviço GitHub Readme Stats.
   Se o serviço público estiver instável, recarregue a página depois.
 -->
 
@@ -100,4 +96,73 @@ const enzo = {
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6"
+      <img src="https://github-readme-stats.vercel.app/api?username=Enzo-Gabriel-2008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6" alt="Estatísticas do GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Gabriel-2008&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+    </td>
+  </tr>
+</table>
+
+<!-- Gráfico de atividade e contribuições -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Gabriel-2008&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Atividade e contribuições" />
+
+</div>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+
+## `> projetos_em_destaque`
+
+<!--
+  COMO ADICIONAR UM PROJETO:
+  Copie uma linha da tabela, cole abaixo da última e substitua os dados.
+-->
+
+| Projeto | Descrição | Tecnologias | Links |
+| :-- | :-- | :-- | :-- |
+| **Weather App** | Aplicação que consulta temperatura, condições climáticas, umidade, velocidade do vento e previsão para os próximos dias, usando a API OpenWeatherMap. Criada para praticar consumo de APIs, manipulação do DOM e funções assíncronas. | `HTML` `CSS` `JavaScript` `OpenWeatherMap API` | [Demo](https://enzo-gabriel-2008.github.io/weather-app/) · [Repositório](https://github.com/Enzo-Gabriel-2008/weather-app) |
+| **Tela de Login** | Interface de tela de login desenvolvida para praticar estrutura e estilização de formulários. | `HTML` `CSS` `JavaScript` | [Demo](https://enzo-gabriel-2008.github.io/login-/) · [Repositório](https://github.com/Enzo-Gabriel-2008/login-) |
+<!-- | **Nome do Projeto** | Breve descrição. | `Tecnologia` `Tecnologia` | [Demo](https://LINK-DA-DEMONSTRACAO) · [Repositório](https://github.com/Enzo-Gabriel-2008/NOME-DO-REPOSITORIO) | -->
+
+<!-- ═══════════════ CURRENTLY LEARNING ═══════════════ -->
+
+## `> estudando_agora`
+
+```bash
+$ estudando --status
+  → Programação Orientada a Objetos (POO) em JavaScript
+  # → [ adicione aqui novos estudos ]
+$ _
+```
+
+<!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
+
+## `> contato`
+
+<div align="center">
+
+<a href="https://github.com/Enzo-Gabriel-2008">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6&labelColor=0D1117&color=8B5CF6" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-a88174344/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117&color=22D3EE" alt="LinkedIn" />
+</a>
+<a href="mailto:enzo_g4briel@icloud.com">
+  <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=icloud&logoColor=8B5CF6&labelColor=0D1117&color=8B5CF6" alt="E-mail" />
+</a>
+
+</div>
+
+<!-- ═══════════════ ASSINATURA & FOOTER ═══════════════ -->
+
+<br/>
+
+<div align="center">
+
+<h3><code>&lt;/&gt; Enzo</code></h3>
+
+<sub>Feito com curiosidade, café e muitos commits.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:0D1117&height=90&section=footer" alt="" />
+
+</div>
