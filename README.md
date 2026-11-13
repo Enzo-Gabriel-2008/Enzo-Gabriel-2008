@@ -84,30 +84,7 @@ const enzo = {
 
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 
-## `> estatisticas_github`
 
-<!--
-  Os cards usam o serviço GitHub Readme Stats.
-  Se o serviço público estiver instável, recarregue a página depois.
--->
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Enzo-Gabriel-2008&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6" alt="Estatísticas do GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Gabriel-2008&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
-    </td>
-  </tr>
-</table>
-
-<!-- Gráfico de atividade e contribuições -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Enzo-Gabriel-2008&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" alt="Atividade e contribuições" />
-
-</div>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
