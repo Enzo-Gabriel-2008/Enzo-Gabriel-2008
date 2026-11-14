@@ -2,8 +2,11 @@
   ╔═══════════════════════════════════════════════════════════════╗
   ║  README DE PERFIL — ENZO                                      ║
   ║  PALETA: #0D1117 fundo · #8B5CF6 roxo · #22D3EE ciano         ║
-  ║  Para adicionar projetos, copie uma linha da tabela de        ║
-  ║  "projetos_em_destaque" e substitua os dados.                 ║
+  ║                                                               ║
+  ║  IMAGENS: links gerados pelo upload direto no GitHub          ║
+  ║  (https://github.com/user-attachments/assets/...).            ║
+  ║                                                               ║
+  ║  NOVOS PROJETOS: copie um bloco <table> da seção de projetos. ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
@@ -19,7 +22,10 @@
 
 <h3>Developer &nbsp;|&nbsp; Front-end &amp; Back-end</h3>
 
-<p><i>Código limpo hoje, projeto melhor amanhã.</i></p>
+<!-- Frases animadas estilo terminal -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=560&height=36&lines=Transformando+ideias+em+c%C3%B3digo+funcional;Interfaces+modernas+%2B+l%C3%B3gica+s%C3%B3lida;Aprendendo+um+commit+de+cada+vez" alt="Código limpo hoje, projeto melhor amanhã." />
+
+<br/>
 
 <!-- Badges de identidade -->
 <img src="https://img.shields.io/badge/Developer-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE&labelColor=0D1117&color=8B5CF6" alt="Developer" />
@@ -29,6 +35,9 @@
 </div>
 
 <br/>
+
+<!-- Divisor degradê -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════ ABOUT ME ═══════════════ -->
 
@@ -53,6 +62,9 @@ const enzo = {
   objetivoAtual: "evoluir um pouco mais a cada dia",
 };
 ```
+
+<!-- Divisor degradê -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" alt="" />
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
@@ -82,9 +94,8 @@ const enzo = {
 
 </div>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-
+<!-- Divisor degradê -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 
@@ -92,14 +103,72 @@ const enzo = {
 
 <!--
   COMO ADICIONAR UM PROJETO:
-  Copie uma linha da tabela, cole abaixo da última e substitua os dados.
+  1. Copie um bloco <table>...</table> inteiro.
+  2. Cole abaixo do último projeto.
+  3. Troque imagens, nome, descrição, tecnologias e links.
+  4. Se não tiver print do código, apague a segunda linha (<tr>) do bloco.
 -->
 
-| Projeto | Descrição | Tecnologias | Links |
-| :-- | :-- | :-- | :-- |
-| **Weather App** | Aplicação que consulta temperatura, condições climáticas, umidade, velocidade do vento e previsão para os próximos dias, usando a API OpenWeatherMap. Criada para praticar consumo de APIs, manipulação do DOM e funções assíncronas. | `HTML` `CSS` `JavaScript` `OpenWeatherMap API` | [Demo](https://enzo-gabriel-2008.github.io/weather-app/) · [Repositório](https://github.com/Enzo-Gabriel-2008/weather-app) |
-| **Tela de Login** | Interface de tela de login desenvolvida para praticar estrutura e estilização de formulários. | `HTML` `CSS` `JavaScript` | [Demo](https://enzo-gabriel-2008.github.io/login-/) · [Repositório](https://github.com/Enzo-Gabriel-2008/login-) |
-<!-- | **Nome do Projeto** | Breve descrição. | `Tecnologia` `Tecnologia` | [Demo](https://LINK-DA-DEMONSTRACAO) · [Repositório](https://github.com/Enzo-Gabriel-2008/NOME-DO-REPOSITORIO) | -->
+<!-- ─── Projeto 01: Weather App ─── -->
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://enzo-gabriel-2008.github.io/weather-app/">
+        <img src="https://github.com/user-attachments/assets/872c82fe-42d6-4af7-88a3-aca8a7c6d6e8" alt="Prévia do Weather App" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h3>Weather App</h3>
+      <p>Consulta temperatura, condições climáticas, umidade, velocidade do vento e previsão para os próximos dias, usando a API OpenWeatherMap. Criado para praticar consumo de APIs, manipulação do DOM e funções assíncronas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/OpenWeatherMap_API-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" alt="OpenWeatherMap API" />
+      </p>
+      <p>
+        <a href="https://enzo-gabriel-2008.github.io/weather-app/">Demo</a> ·
+        <a href="https://github.com/Enzo-Gabriel-2008/weather-app">Repositório</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/user-attachments/assets/dbed09f4-412e-4ac0-aad3-4173bd47934c" alt="Trecho do código do Weather App em JavaScript" width="100%" />
+      <br/>
+      <sub><code>script.js</code> · funções assíncronas e consumo da API</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ─── Projeto 02: Tela de Login ─── -->
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://enzo-gabriel-2008.github.io/login-/">
+        <img src="https://github.com/user-attachments/assets/2f45fd75-5589-4880-88ab-47272da08ada" alt="Prévia da Tela de Login" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h3>Tela de Login</h3>
+      <p>Interface de tela de login desenvolvida para praticar estrutura e estilização de formulários.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE" alt="CSS" />
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" alt="JavaScript" />
+      </p>
+      <p>
+        <a href="https://enzo-gabriel-2008.github.io/login-/">Demo</a> ·
+        <a href="https://github.com/Enzo-Gabriel-2008/login-">Repositório</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Divisor degradê -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2" alt="" />
 
 <!-- ═══════════════ CURRENTLY LEARNING ═══════════════ -->
 
@@ -111,6 +180,9 @@ $ estudando --status
   # → [ adicione aqui novos estudos ]
 $ _
 ```
+
+<!-- Divisor degradê -->
+<img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════ CONNECT WITH ME ═══════════════ -->
 
@@ -138,7 +210,7 @@ $ _
 
 <h3><code>&lt;/&gt; Enzo</code></h3>
 
-<sub>Feito com curiosidade, café e muitos commits.</sub>
+<sub>Código limpo hoje, projeto melhor amanhã.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:0D1117&height=90&section=footer" alt="" />
 
